@@ -21,6 +21,7 @@ const quiz = () => {
 
   // refs to directly control each <li> (answer option)
   let Option1 = useRef(null);
+
   let Option2 = useRef(null);
   let Option3 = useRef(null);
   let Option4 = useRef(null);
